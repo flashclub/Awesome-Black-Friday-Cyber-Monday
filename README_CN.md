@@ -109,7 +109,6 @@
 | 🛠️ | [CodeSwissKnife Bar Dev Tools](https://apps.apple.com/us/app/codeswissknife-bar-dev-tools/id6749501609?mt=12) | CodeSwissKnife Bar 是一个快速、隐私优先的开发者工具包，驻留在您的 Mac 菜单栏中。 | 11月21日至12月2日 终身包 **20% 优惠** |
 | 🚀 | [PortTraceX - Port management tools](https://porttracex.com/?ref=tonybf) | PortTraceX 是开发者消除最持久的日常烦恼之一的快速、可靠的方法：**端口被阻止、繁忙或被未知进程劫持** — 无论是在您的 **本地机器** 还是 **远程服务器** 上。 | 终身许可证使用代码 **BF40** 获 **40% 优惠** |
 | 👨‍💻 | [Notepad.exe](https://notepadexe.com) | 轻量级 Mac 编辑器，让您即时编写和运行代码 - 无需设置。非常适合测试 Swift API、学习编码、原型设计和快速实验。 | 第一年使用代码 **WHATISTHECODEBF2025** 获 **60% 优惠** |
-
 | 🌐 | [WrapPixel](https://www.wrappixel.com/) | 适用于开发者的高级 UI 套件、管理仪表板和模板。 | 所有模板最高 50% 优惠（优惠券：`BFCM50`）和全能通行证 95% 优惠 | 即日起至 2025 年 12 月 31 日 |
 | ⭐ |[AdminMart](https://adminmart.com/) | 适用于开发者的高级管理模板和 UI 套件。 | 全站最高 50% 优惠（优惠券：`BFCM50`）和大礼包 95% 优惠 | 即日起至 2025 年 12 月 31 日 |
 
